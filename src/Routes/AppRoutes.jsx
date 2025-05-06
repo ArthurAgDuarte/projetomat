@@ -11,10 +11,10 @@ export default function AppRoutes() {
   return (
     <>
       <Routes>
-        <Route path="/" element={<Home/>} />
-        <Route path="/funcoes" element={<Funcoes/>} />
-        <Route path="/relacoes" element={<Relacoes/>} />
-        <Route path="/conjuntos" element={<Conjuntos/>} />
+        <Route path="/projetomat/" element={<Home/>} />
+        <Route path="/projetomat/funcoes" element={<Funcoes/>} />
+        <Route path="/projetomat/relacoes" element={<Relacoes/>} />
+        <Route path="/projetomat/conjuntos" element={<Conjuntos/>} />
         <Route path="*" element={<NotFound/>} />
       
         
