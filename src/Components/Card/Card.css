@@ -1,0 +1,35 @@
+.card{
+    margin-top: 1rem;
+    border-radius: 1rem;
+    border: 1px solid black;
+    color: #ffffff;
+    height: 55rem;
+    width: 40rem;
+    padding: 1rem;
+    text-align: center;
+    background-color: #BE9DF6;
+    margin-left: .625rem;
+    margin-right: .625rem;
+}
+.nome{
+    font-size: 2rem;
+}
+.imagem{
+    margin-top: .625rem;
+    margin-bottom: .625rem;
+    height: 40rem;
+    width: 100%;
+    border-radius: .625rem;
+}
+
+.descricao{
+    font-size: 1.75rem;
+}
+
+.botao-link{
+    margin-top: 1rem;
+    background-color:#7c3aed;
+    color: #ffffff;
+    width: 70%;
+    font-size: 1.87rem;
+}

@@ -1,0 +1,9 @@
+header{
+    background-color: #7c3aed;
+    color: #eeeaea;
+    display: flex;
+    justify-content: center;
+    height: 6rem;
+    padding: 2rem;
+}
+

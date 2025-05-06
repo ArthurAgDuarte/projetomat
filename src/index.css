@@ -1,0 +1,62 @@
+
+* {
+  font-family: "Inter", sans-serif;;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main.home{
+  display: flex;
+  justify-content: space-between;
+}
+
+main.funcoes{
+  margin: 1rem;
+  p{
+    font-size: 1.5rem;
+  }
+  .titulo-funcao, .tipofuncao{
+    text-align: center;
+    font-size: 2rem;
+  }
+  
+  .imgtipo{
+    width: 20rem;
+    height: 20rem;
+  }
+}
+
+main.conjuntos{
+  margin: 1rem;
+  p{
+    font-size: 1.5rem;
+  }
+  .titulo-conjuntos, .tipoconjunto{
+    text-align: center;
+    font-size: 2rem;
+  }
+  
+  .imgtipo{
+    width: 20rem;
+    height: 20rem;
+  }
+}
+
+main.relacoes{
+  margin: 1rem;
+  p{
+    font-size: 1.5rem;
+    margin-top: .625rem;
+    margin-bottom: .625rem;
+  }
+  .titulo-relacao, .tiporelacao{
+    text-align: center;
+    font-size: 2rem;
+  }
+  
+  .imgtipo2{
+    width: 70rem;
+    height: 10rem;
+  }
+}
